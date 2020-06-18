@@ -34,7 +34,6 @@ public class EndpointAsyncTask extends AsyncTask<Context,Void,String> {
                     });
             myApiService = builder.build();
         }
-
         this.context = contexts[0];
 
         try {
@@ -48,7 +47,7 @@ public class EndpointAsyncTask extends AsyncTask<Context,Void,String> {
     @Override
     protected void onPostExecute(String results) {
         Intent intent = new Intent(context, JokeActivity.class);
-        intent.putExtra(JokeActivity.KEY, results);
+        intent.putExtra("joke", results);
         context.startActivity(intent);
     }
 }
