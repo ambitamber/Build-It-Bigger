@@ -44,6 +44,13 @@ android {
             applicationId "com.udacity.gradle.builditbigger.free"
         }
     }
+    sourceSets {
+        free {
+            manifest {
+                srcFile 'src/free/AndroidManifest.xml'
+            }
+        }
+    }
 }
 
 dependencies {
@@ -52,7 +59,7 @@ dependencies {
     implementation project(path: ':JokeAndroid')
     endpointsServer project(path: ':backend', configuration: 'endpoints')
     implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'com.google.android.gms:play-services-ads:19.1.0'
+    freeImplementation  'com.google.android.gms:play-services-ads:19.1.0'
     implementation 'com.google.api-client:google-api-client:1.25.0'
     implementation 'com.google.http-client:google-http-client-android:1.23.0'
     implementation 'com.google.code.findbugs:jsr305:3.0.2'
