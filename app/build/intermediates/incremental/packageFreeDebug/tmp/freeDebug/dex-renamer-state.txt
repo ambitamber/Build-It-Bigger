@@ -1,0 +1,10 @@
+#Thu Jun 18 13:50:27 EDT 2020
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\dex\\freeDebug\\mergeDexFreeDebug\\classes3.dex
+base.1=C\:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\dex\\freeDebug\\mergeDexFreeDebug\\classes2.dex
+base.0=C\:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\dex\\freeDebug\\mergeDexFreeDebug\\classes.dex

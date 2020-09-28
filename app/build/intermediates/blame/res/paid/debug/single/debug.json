@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\layout_fragment_main_activity.xml.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\paid\\res\\layout\\fragment_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\build\\intermediates\\res\\merged\\paid\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ax154\\Documents\\GitHub\\Build-It-Bigger\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
